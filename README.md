@@ -2,7 +2,7 @@ The second project of the Frontend Developer track on JetBrains Academy
 
 Interact with users via keyboard inputs and the corrsponding piano audio!
 
-Language:HTML / CSS / Javascript
+Language: HTML / CSS / JavaScript
 
 Course Source: https://hyperskill.org/projects/101?track=5
 
