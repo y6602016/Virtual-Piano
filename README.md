@@ -6,4 +6,4 @@ Language: HTML / CSS / JavaScript
 
 Course Source: https://hyperskill.org/projects/101?track=5
 
-![image](https://github.com/y6602016/Virtual-Piano/blob/main/image/Demo.gif)
+![image](https://github.com/y6602016/Virtual-Piano/blob/main/image/VirtualPiano.gif)
